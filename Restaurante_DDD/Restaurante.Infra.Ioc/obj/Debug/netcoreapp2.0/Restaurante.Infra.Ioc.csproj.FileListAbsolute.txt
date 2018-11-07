@@ -1,0 +1,15 @@
+C:\Users\ralf_\source\repos\Restaurante_DDD\Restaurante.Infra.Ioc\bin\Debug\netcoreapp2.0\Restaurante.Infra.Ioc.deps.json
+C:\Users\ralf_\source\repos\Restaurante_DDD\Restaurante.Infra.Ioc\bin\Debug\netcoreapp2.0\Restaurante.Infra.Ioc.dll
+C:\Users\ralf_\source\repos\Restaurante_DDD\Restaurante.Infra.Ioc\bin\Debug\netcoreapp2.0\Restaurante.Infra.Ioc.pdb
+C:\Users\ralf_\source\repos\Restaurante_DDD\Restaurante.Infra.Ioc\obj\Debug\netcoreapp2.0\Restaurante.Infra.Ioc.csproj.CoreCompileInputs.cache
+C:\Users\ralf_\source\repos\Restaurante_DDD\Restaurante.Infra.Ioc\obj\Debug\netcoreapp2.0\Restaurante.Infra.Ioc.AssemblyInfoInputs.cache
+C:\Users\ralf_\source\repos\Restaurante_DDD\Restaurante.Infra.Ioc\obj\Debug\netcoreapp2.0\Restaurante.Infra.Ioc.AssemblyInfo.cs
+C:\Users\ralf_\source\repos\Restaurante_DDD\Restaurante.Infra.Ioc\obj\Debug\netcoreapp2.0\Restaurante.Infra.Ioc.dll
+C:\Users\ralf_\source\repos\Restaurante_DDD\Restaurante.Infra.Ioc\obj\Debug\netcoreapp2.0\Restaurante.Infra.Ioc.pdb
+C:\Users\ralf_\source\repos\Restaurante_DDD\Restaurante.Infra.Ioc\bin\Debug\netcoreapp2.0\Restaurante.Aplicacao.dll
+C:\Users\ralf_\source\repos\Restaurante_DDD\Restaurante.Infra.Ioc\bin\Debug\netcoreapp2.0\Restaurante.Dominio.dll
+C:\Users\ralf_\source\repos\Restaurante_DDD\Restaurante.Infra.Ioc\bin\Debug\netcoreapp2.0\Restaurante.Infra.Data.dll
+C:\Users\ralf_\source\repos\Restaurante_DDD\Restaurante.Infra.Ioc\bin\Debug\netcoreapp2.0\Restaurante.Aplicacao.pdb
+C:\Users\ralf_\source\repos\Restaurante_DDD\Restaurante.Infra.Ioc\bin\Debug\netcoreapp2.0\Restaurante.Dominio.pdb
+C:\Users\ralf_\source\repos\Restaurante_DDD\Restaurante.Infra.Ioc\bin\Debug\netcoreapp2.0\Restaurante.Infra.Data.pdb
+C:\Users\ralf_\source\repos\Restaurante_DDD\Restaurante.Infra.Ioc\obj\Debug\netcoreapp2.0\Restaurante.Infra.Ioc.csprojResolveAssemblyReference.cache
